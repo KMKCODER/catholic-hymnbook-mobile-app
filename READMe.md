@@ -5,4 +5,4 @@ The idea behind this app is to create a mobile app that a user will be able to d
 
 This will be done in a particular technology
 
-KMKCODER 2023.
+KMKCODER 2024.
